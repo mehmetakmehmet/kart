@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Akmehmet;Mehmet;;;
+FN:Dt. Mehmet Akmehmet
+ORG:Dişhane Ümraniye
+TITLE:Diş Hekimi - Mesul Müdür
+TEL;TYPE=WORK,VOICE:+904443630
+TEL;TYPE=WORK,VOICE:+902164923896
+item1.TEL;TYPE=CELL,VOICE:+905455807595
+item1.X-ABLabel:WhatsApp
+item2.TEL;TYPE=CELL,VOICE:+905321583630
+item2.X-ABLabel:Asistan
+EMAIL;TYPE=WORK,INTERNET:dishane.umraniye@gmail.com
+ADR;TYPE=WORK:;;Atatürk Mah. Sütçü İmam Cad. No:119;Ümraniye;İstanbul;;Türkiye
+URL:https://www.dishane.com
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/mehmet.akmehmet.9
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/mehmet.akmehmet.9
+NOTE:WhatsApp +90 545 580 75 95\nAsistan +90 532 158 36 30
+END:VCARD
